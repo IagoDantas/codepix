@@ -6,7 +6,7 @@ import (
 	uuid "github.com/satori/go.uuid"
 
 	"github.com/IagoDantas/codepix/codepix-go/domain/model"
-	"github.com/stretchr/testify/require"
+	"github.com/stretchr/testify/require"    
 )
 
 func TestNewTransaction(t *testing.T) {
